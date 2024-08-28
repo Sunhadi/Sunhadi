@@ -7,10 +7,7 @@
 <h3 align="center">A passionate software developer from Indonesia ina</h3>
 
 <br/>
-<div align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-</div>
-<br/>
+
 
 <div align="center">
  
