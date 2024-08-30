@@ -1,23 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://camo.githubusercontent.com/0ceaf4c8b06bfdc34e567e297a9e4f1adb36b9e79cb7f6b9c6d45b30e4098782/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kamil!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia ina</h3>
+<h3 align="center">A passionate Front End developer from Indonesia</h3>
 
 <br/>
 
 
 <div align="center">
  
- 🔭 I’m currently working on [Kalkulator Kesehatan](https://kalkulator-kesehatan.netlify.app/)
+ 🔭 I’m currently working on an AI prompt application called Gemini
  
  🌱 I’m currently learning **React Native, android**
 
 💬 Ask me about **Node.js, React, Firebase**
-
-⚡ Fun fact **In some isekai anime, historical-looking costumes are actually made from Ikea rugs!**
 
  </div>
  
